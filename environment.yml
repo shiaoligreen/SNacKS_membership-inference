@@ -10,3 +10,5 @@ dependencies:
   - jupyterlab
   - jupyterlab-git
   - jupyterlab-spellchecker
+  - datasets
+  - transformers
