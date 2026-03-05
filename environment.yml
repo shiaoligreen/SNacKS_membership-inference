@@ -13,3 +13,4 @@ dependencies:
   - datasets
   - transformers
   - pytorch
+  - ipywidgets
