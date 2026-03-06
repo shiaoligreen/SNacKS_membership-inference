@@ -6,6 +6,8 @@ dependencies:
   - python=3.12
   - pandas
   - numpy
+  - matplotlib
+  - seaborn
   - feedparser
   - jupyterlab
   - jupyterlab-git
