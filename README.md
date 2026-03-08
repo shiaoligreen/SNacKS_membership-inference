@@ -14,6 +14,7 @@ This repository contains all code, data, documentation, and reports for the Memb
 - **`src/`** — Source code
 - **`milestone1/`** — Milestone 1 written documents
 - **`milestone2/`** — Milestone 2 written documents
+- **`documentation/`** - General documents
 
 ---
 ## Conda environment setup
