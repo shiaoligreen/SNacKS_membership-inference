@@ -3,9 +3,9 @@ This Teamwork Agreement establishes the expectations, responsibilities, and work
 We view this agreement as a guide to help our team work effectively together and create a positive collaboration environment. If needed, the agreement may be revisited and updated with the consent of all team members.
 ## Team Members
 The following individuals are participating in this project:
-Nicole Shantz
-Shiao-li
-Komalpreet 
+Nicole Shantz,
+Shiao-li,
+Komalpreet,
 Selene Morales
 
 This agreement applies equally to all team members.
@@ -43,7 +43,7 @@ Each member is responsible for keeping the team informed about their work, inclu
 Team members are expected to check the communication channel at least once every 24 hours so that discussions and decisions can move forward efficiently. 
 
 ## Documentation
-Maintaining clear and organized documentation is an important priority for the team. Project documentation will be maintained in two locations. The main written material will be stored and edited in the team’s Overleaf workspace located at [Overleaf](https://www.overleaf.com/project/69a7482f8fba1434312336cb). Code, technical documentations and any additional project materials will be stored in the team’s Git repository located at [Github](https://github.ubc.ca/shiaolig/SNacKS_membership-inference). 
+Maintaining clear and organized documentation is an important priority for the team. Project documentation will be maintained in two locations. The main written material will be stored and edited in the team’s Overleaf workspace located at [Overleaf](https://www.overleaf.com/project/69a7482f8fba1434312336cb). Code, technical documentations and any additional project materials will be stored in the team’s Git repository located at [GitHub](https://github.ubc.ca/shiaolig/SNacKS_membership-inference). 
 
 ## Quality standards 
 Each team member commits to producing work that meets agreed standards of quality. This includes writing clear, readable, and maintainable code, documenting decisions when necessary, and testing contributions before submission. The team agrees to support a culture of professionalism, responsibility, and continuous learning while working together on this project.
