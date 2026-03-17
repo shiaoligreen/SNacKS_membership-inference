@@ -1,6 +1,6 @@
 # SNacKS - Membership Inference Attack
 
-Komalpreet Kaur, Nicole Shantz, Selene Gisela, Shiao-li Green
+Komalpreet, Nicole Shantz, Selene Morales, Shiao-li Green
 
 ## Overview
 
