@@ -16,3 +16,5 @@ dependencies:
   - transformers
   - pytorch
   - ipywidgets
+  - pillow
+  - torchvision
