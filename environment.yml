@@ -19,3 +19,8 @@ dependencies:
   - pillow
   - torchvision
   - num2words
+  - tqdm
+  - pip
+  - pip:
+      - open_clip_torch
+
