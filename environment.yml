@@ -18,3 +18,8 @@ dependencies:
   - ipywidgets
   - pillow
   - torchvision
+  - tqdm
+  - pip
+  - pip:
+      - open_clip_torch
+
