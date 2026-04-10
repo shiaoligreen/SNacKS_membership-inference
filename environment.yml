@@ -22,4 +22,6 @@ dependencies:
   - pip
   - pip:
       - open_clip_torch
+      - num2words
+      - xgboost
 
